@@ -15,14 +15,16 @@ The main aim of this project is to predict types of glasses formed by combining 
 * This model reduced the physical efforts of forming composition of elements of periodic table to find out glass type.
 * After Doing Oversampling, Accuracy of confusion matrix increased to 92% 
 
-### limitation 
+### Screenshot of GUI
+
+### Limitation 
 It does prediction only based on dataset provided. It cannot understand any physics or chemistry related knowledge. 
 
 ### Software used
 
 To experiment it, I have used Intel(R) Core (TM) i3-2350 CPU @ 2.30GHz 2.30GHz processor and 4GB RAM 64-bit operating system. 
 
-### contributors :
+### Contributors :
   * Prajyot Patil
   * Akshay Shirsat
   * Sheetal Jade
