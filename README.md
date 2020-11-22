@@ -27,5 +27,5 @@ To experiment it, I have used Intel(R) Core (TM) i3-2350 CPU @ 2.30GHz 2.30GHz p
 ### Contributors :
   * Prajyot Patil
   * Akshay Shirsat
-  * Sheetal Jade
+  * Sheetal Jade  
   
