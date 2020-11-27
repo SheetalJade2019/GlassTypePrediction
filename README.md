@@ -17,6 +17,8 @@ The main aim of this project is to predict types of glasses formed by combining 
 
 ### Screenshot of GUI
 
+<img src="https://github.com/SheetalJade2019/GlassTypePrediction/blob/SheetalJade2019-GTP-GUI/gui/GTP_GUI.png" align="center" width="450" height="500">
+
 ### Limitation 
 It does prediction only based on dataset provided. It cannot understand any physics or chemistry related knowledge. 
 
