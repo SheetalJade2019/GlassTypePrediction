@@ -10,7 +10,7 @@ The main aim of this project is to predict types of glasses formed by combining 
 ### Working
 * Virtually we have used dataset having various elements of periodic table with their proportion. This data is pre-processed and then given to machine learning model to predict the type of glass that composition of elements is forming. 
 
-* We have tried many machine learning classification algorithms like decision tree, Gradient Boosting, Random Forest out of which RFA gave best accuracy of 79%. 
+* We have tried many machine learning classification algorithms like decision tree, Gradient Boosting, Random Forest out of which RFA gave best accuracy of 72%. 
 
 * This model reduced the physical efforts of forming composition of elements of periodic table to find out glass type.
 * After Doing Oversampling, Accuracy of confusion matrix increased to 92% 
